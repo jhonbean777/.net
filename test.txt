@@ -1,0 +1,81 @@
+ 
+MVC
+
+
+.net core
+1) Task Management system - Gayatri Kumbhare
+
+	- Admin must be able to add, Edit, and Delete Tasks.
+
+	- Admin able to see Task List.
+
+	- Admin can complete the task by clicking on the IsComplete checkbox/link.
+
+	- Admin can able to filter Task list on completion status.
+
+	- Admin can able to ADD Users only.
+
+2) Shopping Cart - Vivek Khadase
+
+	- User can see a List of products
+
+	- User must be able to add, Edit, and Delete Products
+
+	- User can add product in Cart (Add To Cart)
+
+	- User able to see Checkout and place order.
+
+	- Out of Stock Products must be displayed if sold out.	
+
+3) Library management system - Tejashree Bhalerao
+
+	- Admin can Add, Edit, and Delete Book details
+
+	- Add User (only ADD)
+
+	- Assigned book to a user
+
+	- Admin can see the list of books and to whom the book is assigned
+
+	- Add filter by date and user name
+
+4) Exam Result System - Rohit Sali
+
+	- Teacher can Add Students - Only Add
+
+	- Teacher can Add, Edit, and Delete Subjects.
+
+	- Teacher can give marks to students. (at least 5 subjects)
+
+	- Final result must be displayed as a list of students, Pass/fail, Total Marks/Out of, and Percentage.	
+
+5) Bug Management System - Srushti Rikame
+
+	- The developer can add, Edit, and delete bugs.
+
+	- The developer can see all bugs and bug status with a filter by bug name.
+
+	- The developer can change the status of the bug.
+
+	- The developer can add a Tester and allocate specific projects with a drop-down list.
+
+6) News Management System - Harish Devhare
+
+	- User can add, Edit, and delete news.
+
+	- News must be displayed in the carousel - slider (at least 3 with title and description).
+
+7) Nursery Management System - Devang Wala
+
+        - User can add, Edit, and Delete Plant details
+
+        - Plant details must have an image upload
+
+8) Hotel Booking System - Pratiksha Gaikhe
+
+- Admin can add, Edit, and delete hotels.
+
+- Admin can Add/remove rooms in a hotel.
+
+- Admin can see all hotels and room details with a filter by name.
+
